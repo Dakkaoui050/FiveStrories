@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unrealengineproject\\fivejourney\\source\\fivejourney\\fivejourney.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealengineproject\\fivejourney\\intermediate\\build\\win64\\x64\\fivejourneyeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unrealengineproject\\fivejourney\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fivejourney\\definitions.fivejourney.h",
+            "d:\\unrealengineproject\\fivejourney\\source\\fivejourney\\fivejourney.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unrealengineproject\\fivejourney\\intermediate\\build\\win64\\unrealeditor\\inc\\fivejourney\\uht\\fivejourneygamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealengineproject\\fivejourney\\intermediate\\build\\win64\\x64\\fivejourneyeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unrealengineproject\\fivejourney\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fivejourney\\definitions.fivejourney.h",
+            "d:\\unrealengineproject\\fivejourney\\source\\fivejourney\\fivejourneygamemode.h",
+            "d:\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\unrealengineproject\\fivejourney\\intermediate\\build\\win64\\unrealeditor\\inc\\fivejourney\\uht\\fivejourneygamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

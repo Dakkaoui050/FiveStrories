@@ -1,0 +1,58 @@
+[
+	{
+		"file": "D:\\UnrealEngineProject\\FiveJourney\\Source\\FiveJourney\\FiveJourney.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealEngineProject\\FiveJourney\\.vscode\\compileCommands_Default\\FiveJourney.1.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealEngineProject\\FiveJourney\\Source\\FiveJourney\\FiveJourney.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealEngineProject\\FiveJourney\\.vscode\\compileCommands_Default\\FiveJourney.1.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealEngineProject\\FiveJourney\\Source\\FiveJourney\\FiveJourney.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealEngineProject\\FiveJourney\\.vscode\\compileCommands_Default\\FiveJourney.1.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealEngineProject\\FiveJourney\\Source\\FiveJourney\\FiveJourneyCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealEngineProject\\FiveJourney\\.vscode\\compileCommands_Default\\FiveJourney.1.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealEngineProject\\FiveJourney\\Source\\FiveJourney\\FiveJourneyCharacter.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealEngineProject\\FiveJourney\\.vscode\\compileCommands_Default\\FiveJourney.1.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealEngineProject\\FiveJourney\\Source\\FiveJourney\\FiveJourneyGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealEngineProject\\FiveJourney\\.vscode\\compileCommands_Default\\FiveJourney.1.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealEngineProject\\FiveJourney\\Source\\FiveJourney\\FiveJourneyGameMode.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UnrealEngineProject\\FiveJourney\\.vscode\\compileCommands_Default\\FiveJourney.1.rsp"
+		],
+		"directory": "D:\\UE_5.5\\Engine\\Source"
+	}
+]

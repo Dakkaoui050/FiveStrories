@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UnrealEngineProject\\FiveJourney\\Source\\FiveJourney\\FiveJourney.Build.cs",
+		"D:\\UnrealEngineProject\\FiveJourney\\Source\\FiveJourney.Target.cs",
+		"D:\\UnrealEngineProject\\FiveJourney\\Source\\FiveJourneyEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.0"
+}
